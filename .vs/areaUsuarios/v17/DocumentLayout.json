@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|c:\\users\\cti5638\\desktop\\areausuariosv4\\registroform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:registroform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\registroform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:registroform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\registroform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:registroform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\editarusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:editarusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\models\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:models\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\editarusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:editarusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\js\\validacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:js\\validacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\ventasusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:ventasusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\ventasusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:ventasusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\ventasusuario.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:ventasusuario.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\editarusuario.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:editarusuario.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\iniciousuario.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:iniciousuario.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\iniciousuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2A06C2-3398-44D8-8474-DA618739EC11}|areaUsuarios.csproj|solutionrelative:iniciousuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditarUsuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\EditarUsuario.aspx.cs",
+              "RelativeDocumentMoniker": "EditarUsuario.aspx.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\EditarUsuario.aspx.cs",
+              "RelativeToolTip": "EditarUsuario.aspx.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAABRwFUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:43:30.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Validacion.js",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\JS\\Validacion.js",
+              "RelativeDocumentMoniker": "JS\\Validacion.js",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\JS\\Validacion.js",
+              "RelativeToolTip": "JS\\Validacion.js",
+              "ViewState": "AQIAABcAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-08T22:04:50.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-07T23:54:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T21:45:00.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:49:12.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\RegistroForm.aspx.cs",
+              "RelativeDocumentMoniker": "RegistroForm.aspx.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\RegistroForm.aspx.cs",
+              "RelativeToolTip": "RegistroForm.aspx.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:15:58.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroForm.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\RegistroForm.aspx.designer.cs",
+              "RelativeDocumentMoniker": "RegistroForm.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\RegistroForm.aspx.designer.cs",
+              "RelativeToolTip": "RegistroForm.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:01:01.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroForm.aspx",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\RegistroForm.aspx",
+              "RelativeDocumentMoniker": "RegistroForm.aspx",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\RegistroForm.aspx",
+              "RelativeToolTip": "RegistroForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T21:46:30.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarUsuario.aspx",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\EditarUsuario.aspx",
+              "RelativeDocumentMoniker": "EditarUsuario.aspx",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\EditarUsuario.aspx",
+              "RelativeToolTip": "EditarUsuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T21:58:56.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\Models\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Models\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\Models\\Utilidades.cs",
+              "RelativeToolTip": "Models\\Utilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:44:00.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VentasUsuario.aspx",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\VentasUsuario.aspx",
+              "RelativeDocumentMoniker": "VentasUsuario.aspx",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\VentasUsuario.aspx",
+              "RelativeToolTip": "VentasUsuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-07T23:44:20.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentasUsuario.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\VentasUsuario.aspx.designer.cs",
+              "RelativeDocumentMoniker": "VentasUsuario.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\VentasUsuario.aspx.designer.cs",
+              "RelativeToolTip": "VentasUsuario.aspx.designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:43:56.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentasUsuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\VentasUsuario.aspx.cs",
+              "RelativeDocumentMoniker": "VentasUsuario.aspx.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\VentasUsuario.aspx.cs",
+              "RelativeToolTip": "VentasUsuario.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:43:55.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InicioUsuario.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\InicioUsuario.aspx.designer.cs",
+              "RelativeDocumentMoniker": "InicioUsuario.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\InicioUsuario.aspx.designer.cs",
+              "RelativeToolTip": "InicioUsuario.aspx.designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:43:50.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InicioUsuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\InicioUsuario.aspx.cs",
+              "RelativeDocumentMoniker": "InicioUsuario.aspx.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\InicioUsuario.aspx.cs",
+              "RelativeToolTip": "InicioUsuario.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:43:48.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditarUsuario.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\EditarUsuario.aspx.designer.cs",
+              "RelativeDocumentMoniker": "EditarUsuario.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\CTI5638\\Desktop\\areaUsuariosV4\\EditarUsuario.aspx.designer.cs",
+              "RelativeToolTip": "EditarUsuario.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:43:32.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\areaUsuarios.dll.config
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\areaUsuarios.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\areaUsuarios.pdb
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\csc.exe
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\csc.exe.config
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\csc.rsp
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\csi.exe
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\csi.rsp
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\System.AppContext.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\vbc.exe
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\vbc.exe.config
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\vbc.rsp
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\VBCSCompiler.exe
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\W10-PC\source\repos\areaUsuarios\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\W10-PC\source\repos\areaUsuarios\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\source\repos\areaUsuarios\obj\Debug\areaUsuarios.csproj.CopyComplete
+C:\Users\W10-PC\source\repos\areaUsuarios\obj\Debug\areaUsuarios.dll
+C:\Users\W10-PC\source\repos\areaUsuarios\obj\Debug\areaUsuarios.pdb
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\areaUsuarios.dll.config
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\areaUsuarios.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\areaUsuarios.pdb
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\csc.exe
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\csc.exe.config
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\csc.rsp
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\csi.exe
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\csi.rsp
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\System.AppContext.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\vbc.exe
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\vbc.exe.config
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\vbc.rsp
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\VBCSCompiler.exe
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CTI5638\Desktop\areaUsuarios\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\CTI5638\Desktop\areaUsuarios\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\CTI5638\Desktop\areaUsuarios\obj\Debug\areaUsua.5909BC97.Up2Date
+C:\Users\CTI5638\Desktop\areaUsuarios\obj\Debug\areaUsuarios.dll
+C:\Users\CTI5638\Desktop\areaUsuarios\obj\Debug\areaUsuarios.pdb
+C:\Users\W10-PC\Downloads\areaUsuariosV3\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\W10-PC\Downloads\areaUsuariosV3\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\Downloads\areaUsuariosV3\obj\Debug\areaUsuarios.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\obj\Debug\areaUsuarios.pdb
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\areaUsuarios.dll.config
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\areaUsuarios.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\areaUsuarios.pdb
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\csc.exe
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\csc.exe.config
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\csc.rsp
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\csi.exe
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\csi.rsp
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\System.AppContext.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\vbc.exe
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\vbc.exe.config
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\vbc.rsp
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\VBCSCompiler.exe
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\W10-PC\Downloads\areaUsuariosV3\obj\Debug\areaUsuarios.csproj.CopyComplete
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\areaUsuarios.dll.config
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\areaUsuarios.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\areaUsuarios.pdb
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\areaUsuariosV3\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\areaUsuariosV3\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\areaUsuariosV3\obj\Debug\areaUsuarios.csproj.CopyComplete
+C:\Users\Usuario\Desktop\areaUsuariosV3\obj\Debug\areaUsuarios.dll
+C:\Users\Usuario\Desktop\areaUsuariosV3\obj\Debug\areaUsuarios.pdb
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\areaUsuarios.dll.config
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\areaUsuarios.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\areaUsuarios.pdb
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\csc.exe
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\csc.exe.config
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\csc.rsp
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\csi.exe
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\csi.rsp
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\System.AppContext.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\vbc.exe
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\vbc.exe.config
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\vbc.rsp
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\VBCSCompiler.exe
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CTI5638\Desktop\areaUsuariosV4\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\CTI5638\Desktop\areaUsuariosV4\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\CTI5638\Desktop\areaUsuariosV4\obj\Debug\areaUsua.5909BC97.Up2Date
+C:\Users\CTI5638\Desktop\areaUsuariosV4\obj\Debug\areaUsuarios.dll
+C:\Users\CTI5638\Desktop\areaUsuariosV4\obj\Debug\areaUsuarios.pdb
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\areaUsuarios.dll.config
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\areaUsuarios.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\areaUsuarios.pdb
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\csc.exe
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\csc.exe.config
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\csc.rsp
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\csi.exe
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\csi.rsp
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\System.AppContext.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\vbc.exe
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\vbc.exe.config
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\vbc.rsp
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\VBCSCompiler.exe
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\W10-PC\Desktop\areaUsuariosV5\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\W10-PC\Desktop\areaUsuariosV5\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\Desktop\areaUsuariosV5\obj\Debug\areaUsuarios.csproj.CopyComplete
+C:\Users\W10-PC\Desktop\areaUsuariosV5\obj\Debug\areaUsuarios.dll
+C:\Users\W10-PC\Desktop\areaUsuariosV5\obj\Debug\areaUsuarios.pdb
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\areaUsuarios.dll.config
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\areaUsuarios.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\areaUsuarios.pdb
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\csc.exe
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\csc.exe.config
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\csc.rsp
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\csi.exe
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\csi.rsp
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\System.AppContext.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\vbc.exe
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\vbc.exe.config
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\vbc.rsp
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\obj\Debug\areaUsuarios.csproj.CopyComplete
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\obj\Debug\areaUsuarios.dll
+C:\Users\Diego\Desktop\4-6-2014\areaUsuariosV6\obj\Debug\areaUsuarios.pdb
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\areaUsuarios.dll.config
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\areaUsuarios.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\areaUsuarios.pdb
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\csc.exe
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\csc.exe.config
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\csc.rsp
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\csi.exe
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\csi.rsp
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\System.AppContext.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\vbc.exe
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\vbc.exe.config
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\vbc.rsp
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\VBCSCompiler.exe
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\obj\Debug\areaUsuarios.csproj.CopyComplete
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\obj\Debug\areaUsuarios.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\obj\Debug\areaUsuarios.pdb
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\Microsoft.Web.Helpers.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.Helpers.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.Razor.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.WebPages.Deployment.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.WebPages.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.WebPages.Razor.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\WebMatrix.Data.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\WebMatrix.WebData.dll
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.Helpers.xml
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.Razor.xml
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.WebPages.xml
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.WebPages.Deployment.xml
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\System.Web.WebPages.Razor.xml
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\WebMatrix.Data.xml
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\WebMatrix.WebData.xml
+C:\Users\W10-PC\Desktop\practicasFinal\areaUsuariosV7\bin\AjaxControlToolkit.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\areaUsuarios.dll.config
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\areaUsuarios.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\areaUsuarios.pdb
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\AjaxControlToolkit.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\Microsoft.Web.Helpers.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\WebMatrix.Data.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\WebMatrix.WebData.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\WebMatrix.Data.xml
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\WebMatrix.WebData.xml
+C:\Users\Usuario\Desktop\areaUsuariosV10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\areaUsuariosV10\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\areaUsuariosV10\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\areaUsuariosV10\obj\Debug\areaUsuarios.csproj.CopyComplete
+C:\Users\Usuario\Desktop\areaUsuariosV10\obj\Debug\areaUsuarios.dll
+C:\Users\Usuario\Desktop\areaUsuariosV10\obj\Debug\areaUsuarios.pdb
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\areaUsuarios.dll.config
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\areaUsuarios.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\areaUsuarios.pdb
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\csc.exe
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\csc.exe.config
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\csc.rsp
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\csi.exe
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\csi.rsp
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\System.AppContext.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\vbc.exe
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\vbc.exe.config
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\vbc.rsp
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\AjaxControlToolkit.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\Microsoft.Web.Helpers.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.Helpers.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.Razor.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.WebPages.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\WebMatrix.Data.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\WebMatrix.WebData.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.Helpers.xml
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.Razor.xml
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.WebPages.xml
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\WebMatrix.Data.xml
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\WebMatrix.WebData.xml
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\obj\Debug\areaUsuarios.csproj.CopyComplete
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\obj\Debug\areaUsuarios.dll
+C:\Users\Diego\Desktop\VERSION 11\areaUsuariosV11\obj\Debug\areaUsuarios.pdb
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\areaUsuarios.dll.config
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\areaUsuarios.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\areaUsuarios.pdb
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\csc.exe
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\csc.exe.config
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\csc.rsp
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\csi.exe
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\csi.rsp
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\System.AppContext.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\System.Collections.Immutable(1).dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\vbc.exe
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\vbc.exe.config
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\vbc.rsp
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\VBCSCompiler.exe
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\AjaxControlToolkit.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\Microsoft.Web.Helpers.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.Helpers.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.Razor.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.WebPages.Deployment.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.WebPages.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.WebPages.Razor.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\WebMatrix.Data.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\WebMatrix.WebData.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.Helpers.xml
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.Razor.xml
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.WebPages.xml
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.WebPages.Deployment.xml
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.Web.WebPages.Razor.xml
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\WebMatrix.Data.xml
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\WebMatrix.WebData.xml
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\W10-PC\Downloads\areaUsuariosV12\obj\Debug\areaUsuarios.csproj.AssemblyReference.cache
+C:\Users\W10-PC\Downloads\areaUsuariosV12\obj\Debug\areaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\Downloads\areaUsuariosV12\obj\Debug\areaUsuarios.csproj.CopyComplete
+C:\Users\W10-PC\Downloads\areaUsuariosV12\obj\Debug\areaUsuarios.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\obj\Debug\areaUsuarios.pdb
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.ValueTuple.dll
+C:\Users\W10-PC\Downloads\areaUsuariosV12\bin\System.ValueTuple.xml
